@@ -25,6 +25,16 @@ list.append(...arrayList);
 
 
 
+// const textHTML = ingredients
+//   .map(el => {
+//   const item = document.createElement('li');
+//   item.textContent = el;
+//   item.classList.add('item');
+//   return item.outerHTML;
+// })
+//   .join('');
+
+// list.innerHTML = textHTML;
 
 
 
